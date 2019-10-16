@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f5ef;
+}
+a {
+    color: #cb4151;
+}
+.body {
+    max-width: 990px;
+    margin: 0 auto;
+}
+.article {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 0 20px 0;
+}
+h1, h2, h3 {
+    color: #cb4151;
+}
+article h2 {
+    margin-top: 0;
+}
+article p {
+    margin-top: 0;
+}
